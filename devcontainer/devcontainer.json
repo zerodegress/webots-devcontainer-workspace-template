@@ -1,0 +1,5 @@
+{
+  "name": "webots-devcontainer-workspace",
+  "image": "docker.io/zerodegress/devcontainer-webots:ros-base",
+  "remoteUser": "devcontainer"
+}
